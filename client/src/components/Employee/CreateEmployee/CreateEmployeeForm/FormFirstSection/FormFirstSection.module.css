@@ -1,0 +1,23 @@
+.main{
+    @apply flex
+}
+
+.SectionItem{
+    @apply text-[0.6rem] w-[30%] m-2 flex flex-col
+}
+
+.label{
+    @apply font-bold
+}
+
+.input{
+    @apply border border-gray-400/80 p-1 
+}
+
+.input:Focus{
+    @apply border border-blue-500 outline-none
+}
+
+.error{
+    @apply text-[0.65rem] text-red-500 w-[90%] text-left p-[0.1rem]  
+}

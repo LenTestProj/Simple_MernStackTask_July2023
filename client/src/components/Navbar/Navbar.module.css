@@ -1,0 +1,15 @@
+.main{
+    @apply flex bg-blue-500 text-[0.7rem] justify-center sm:justify-between w-full text-white fixed duration-700
+}
+
+.item{
+ @apply p-3 flex
+}
+
+.item:last-child{
+    @apply hidden sm:block
+}
+
+.logoutIcon{
+    @apply pt-1 pr-2 text-[0.56rem]
+}

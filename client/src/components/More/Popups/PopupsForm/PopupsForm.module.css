@@ -1,0 +1,35 @@
+.main{
+    @apply px-2 py-2 flex flex-col items-center w-[98.5%]
+}
+
+.form{
+    @apply w-[98.5%] bg-white 
+}
+
+.content{
+ @apply p-6
+}
+
+.row{
+    @apply flex flex-col sm:flex-row mb-1 pb-2
+}
+
+.promptRow{
+    @apply flex justify-center text-[0.7rem] text-red-500
+}
+
+.item{
+    @apply text-[0.6rem] flex-1  items-center flex justify-center
+}
+
+.button{
+    @apply bg-blue-400 w-[9rem] text-white p-1 border-r-[1px] border-r-gray-500
+}
+
+.buttonClicked{
+    @apply bg-blue-700
+}
+
+.item:last-child{
+    @apply border-r-0
+}

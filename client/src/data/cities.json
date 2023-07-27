@@ -1,0 +1,41 @@
+[
+    {
+        "name":"Bangladesh",
+        "values":["Bogra","Brahmanbaria","Cox's Bazaar","Faridapur","Jesore","Kushtia","Nawabganj","Sirajganj","Tagaibang"]
+    },{
+        "name":"Canada",
+        "values":["Brant","Burlington","Comwall","Hamilton","North Bay","Ottawa","Sarnia","Toronto"]
+    },
+    {
+        "name":"China",
+        "values":["Beijing","Bozhou","Chizhou","Hong Kong","Jieshou","Longhai","Longnan","Macau","Shanghai","Suzhou","Yemen"]
+    },
+    {
+        "name":"France",
+        "values":["Bron","Castres","Lyon","Marseille","Nantes","Paris","Poisse","Reims","Roanne"]
+    },
+    {
+        "name":"India",
+        "values":["Ahmedabad","Bhopal","Chennai","Delhi","Hyderabad","Kolkata","Mumbai","Pune","Rajkot","Surat"]
+    },
+    {
+        "name":"Japan",
+        "values":["Hiroshima","Kasugai","Maebashi","Midori","Nagasaki","Nagoya","Takasaki","Yamagata","Yatomi"]
+    },
+    {
+        "name":"Nepal",
+        "values":["Bharatpur","Chandrapur","Damak","Godawari","Itahari","Janakpur","Kathmandu","Lalitpur","Nepalgunj","Siraha","Tikapur","Tokha"]
+    },
+    {
+        "name":"Sri-Lanka",
+        "values":["Colombo","Dambulla","Galle","Kalmunai","Kandy","Ratnapura","Vavuniya"]
+    },
+    {
+        "name":"UK",
+        "values":["Bangor","Derby","Durham","Nothingham","Perth","Sunderland"]
+    },
+    {
+        "name":"USA",
+        "values":["California","Chicago","Florida","Hawaii","New Jersey","New York","Texas","Washington"]
+    }
+]

@@ -1,0 +1,63 @@
+.main{
+    @apply flex flex-col items-center pt-6 pb-5
+}
+
+.listHeaderSection{
+    @apply flex 
+}
+
+.listItem{
+    @apply sm:flex sm:text-[0.6rem] text-[0.54rem] border border-gray-200 p-1 justify-between overflow-hidden items-center 
+}
+
+.lisItemHeaderSymbol{
+    @apply pt-1 text-gray-500 
+}
+
+.buttonSection{
+    @apply flex p-1 sm:w-[95%] w-full items-center flex-col justify-center
+}
+
+.button{
+    @apply sm:text-[0.62rem] text-[0.38rem] sm:w-full w-[70%]  text-white cursor-pointer  mb-1 
+}
+
+.firstName{
+    @apply sm:w-[14%] w-[19%]
+}
+
+.lastName{
+    @apply sm:w-[8.7%] w-[20%] 
+}
+
+.mobileNumber{
+    @apply sm:w-[10%] w-[21%]
+}
+
+.email{
+    @apply sm:w-[20%] w-[25%]
+}
+
+.gender{
+    @apply w-[8.3%] hidden sm:flex 
+}
+
+.dob{
+    @apply w-[11%] hidden sm:flex
+}
+
+.country{
+    @apply w-[10%] hidden sm:flex
+}
+
+.city{
+    @apply w-[10%] hidden sm:flex 
+}
+
+.action{
+    @apply sm:w-[8%] w-[18%]
+}
+
+.noEmployeeFound{
+    @apply pt-3 text-xl
+}

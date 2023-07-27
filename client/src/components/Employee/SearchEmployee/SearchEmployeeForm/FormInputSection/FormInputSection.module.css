@@ -1,0 +1,31 @@
+.main{
+    @apply flex 
+}
+
+.SectionItem{
+    @apply text-[0.6rem] w-[28%] m-2 flex flex-col
+}
+
+.label{
+    @apply font-sans pb-[0.1rem]
+}
+
+.input{
+    @apply border border-gray-400 
+}
+
+.input:focus{
+    @apply outline-none border border-blue-500
+}
+
+.button{
+    @apply sm:text-[0.62rem] text-[0.58rem] w-[90%] sm:w-[5rem] text-white cursor-pointer h-[1.3rem] mb-1
+}
+
+.buttonSection{
+    @apply flex p-1 mx-2  sm:w-[10rem] items-center flex-col sm:flex-row w-[80%] sm:pt-5 pt-0
+}
+
+.error{
+    @apply text-[0.6rem] text-red-600 py-1
+}

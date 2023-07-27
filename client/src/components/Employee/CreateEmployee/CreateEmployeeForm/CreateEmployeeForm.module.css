@@ -1,0 +1,23 @@
+.main{
+    @apply px-2 py-2
+}
+
+.form{
+    @apply w-[98.5%] bg-white
+}
+
+.header{
+    @apply text-[0.8rem] pt-2 pl-[0.4rem] pb-1
+}
+
+.buttonSection{
+    @apply flex justify-end p-2
+}
+
+.button{
+    @apply py-1 px-2 text-[0.65rem] text-white cursor-pointer
+}
+
+.toast{
+    @apply w-[50%] sm:w-full bg-orange-100 left-[49%] top-1 sm:left-0 sm:top-0 text-black 
+}

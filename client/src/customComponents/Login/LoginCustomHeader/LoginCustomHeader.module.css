@@ -1,0 +1,19 @@
+.main{
+    @apply pt-3 flex flex-col items-center
+}
+
+.header{
+    @apply text-[1.9rem] font-bold pb-2
+}
+
+.loginCred{
+    @apply pt-2 text-2xl
+}
+
+.emailPassword{
+    @apply flex text-[0.73rem]
+}
+
+.yellowText{
+    @apply bg-yellow-300 text-[0.7rem] mt-4 font-bold px-9
+}

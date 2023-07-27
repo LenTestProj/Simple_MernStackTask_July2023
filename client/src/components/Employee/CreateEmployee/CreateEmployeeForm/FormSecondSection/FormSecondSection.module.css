@@ -1,0 +1,47 @@
+.main{
+    @apply flex 
+}
+
+.SectionItem{
+    @apply text-[0.6rem] w-[30%] m-2 flex flex-col
+}
+
+.label{
+    @apply font-bold
+}
+
+.input{
+    @apply p-[0.2rem] border border-gray-400/80
+}
+
+.input:Focus{
+    @apply border border-blue-500 outline-none
+}
+
+.date{
+    @apply pb-[0.05rem] cursor-pointer
+}
+
+.extraItem{
+    @apply flex flex-col sm:flex-row text-[0.6rem] sm:items-center  sm:justify-center w-[30%] ml-2 pl-0
+}
+
+.genderItem{
+    @apply p-1 flex sm:h-10 h-7 ;
+}
+
+.radio{
+    @apply text-[0.8rem] mb-2
+}
+
+.genderItemText{
+    @apply pl-[0.3rem] sm:pt-[0.35rem] 
+}
+
+.genderText{
+    @apply pt-[0.6rem] sm:pr-2  sm:h-10 h-7 pl-1 sm:pl-0 sm:flex justify-end
+}
+
+.error{
+    @apply text-[0.65rem] text-red-500 text-left p-[0.1rem]   
+}

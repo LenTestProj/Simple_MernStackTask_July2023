@@ -1,0 +1,11 @@
+.toast{
+    @apply w-[50%] sm:w-full left-[49%] top-1 sm:left-0 sm:top-0 text-black
+}
+
+.error{
+    @apply bg-orange-100
+}
+
+.success{
+    @apply bg-white
+}

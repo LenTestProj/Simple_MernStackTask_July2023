@@ -1,0 +1,7 @@
+.main{
+    @apply sm:w-[13rem] sm:h-[94.9vh] bg-[#10282b] text-white flex flex-col pl-3  mt-10 -translate-x-[100%] sm:relative sm:mt-8 sm:translate-x-0 absolute h-[89.7vh] w-[9rem] sm:opacity-[1] opacity-[0.9] duration-1000 z-10 sm:z-0
+}
+
+.showMobSidebar{
+ @apply translate-x-0
+}

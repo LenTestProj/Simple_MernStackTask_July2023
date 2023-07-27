@@ -1,0 +1,66 @@
+.main{
+    @apply px-2 py-2 flex flex-col items-center w-full 
+}
+
+.form{
+    @apply w-full 
+}
+
+.content{
+    @apply flex flex-col text-[0.7rem] p-2
+}
+
+.textInput{
+    @apply border border-gray-400/50 pl-1 pb-1
+}
+.textInput:focus{
+    @apply outline-none border border-blue-400
+}
+
+.input{
+    @apply bg-white text-[0.7rem] 
+}
+
+.button{
+    @apply text-[0.6rem] text-white bg-green-700  p-1 rounded-sm cursor-pointer
+}
+
+.firstHalf{
+    @apply flex flex-col sm:flex-row pb-4
+}
+
+.inputSection{
+    @apply flex flex-col sm:mr-2 w-full sm:w-[80%]
+}
+
+.buttonSection{
+    @apply items-center justify-center sm:justify-end w-full sm:w-[20%] pt-2 sm:pt-0
+}
+
+.error{
+    @apply text-red-500 pt-1
+}
+
+.list{
+    @apply flex flex-wrap
+}
+
+.listItem{
+    @apply flex flex-col border items-center ml-1 mr-3 border-black w-[44%] sm:w-[10rem] p-1 my-2
+}
+
+.image{
+    @apply w-full h-[5.2rem] sm:h-[8rem]
+}
+
+.deleteButton{
+    @apply  bg-orange-600 py-1 px-3 text-white rounded-full text-[0.6rem]
+}
+
+.imageText{
+    @apply p-1 font-semibold
+}
+
+.secondHalf{
+    @apply pt-2 h-auto
+}

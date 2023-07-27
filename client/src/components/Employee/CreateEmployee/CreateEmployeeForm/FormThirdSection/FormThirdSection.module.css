@@ -1,0 +1,15 @@
+.main{
+    @apply flex flex-col text-[0.6rem] m-2 pb-2
+}
+
+.input{
+    @apply border border-gray-400/80 h-14 p-[0.2rem]
+}
+
+.input:Focus{
+    @apply border border-blue-500 outline-none
+}
+
+.label{
+    @apply font-bold
+}

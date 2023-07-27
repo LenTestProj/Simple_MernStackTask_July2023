@@ -1,0 +1,27 @@
+.main{
+    @apply p-2 fixed top-[10%] left-[25%] w-[60%]  bg-white z-10
+}
+
+.overlay{
+    @apply fixed top-0 bottom-0 left-0 right-0 bg-gray-400/50 z-10
+}
+
+.row{
+    @apply pt-3 pb-2 text-[0.7rem] rounded-sm flex border-b border-b-gray-400 
+}
+
+.row:first-child{
+    @apply justify-between py-2
+}
+
+.row:last-child{
+    @apply justify-end border-0  pt-2
+}
+
+.button{
+    @apply bg-orange-500 p-[0.3rem] 
+}
+
+.closeButton{
+    @apply pt-1 pr-1 cursor-pointer
+}

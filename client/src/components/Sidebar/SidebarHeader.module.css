@@ -1,0 +1,31 @@
+.main{
+    @apply flex pt-10 
+}
+
+.guestUserIcon{
+    border:2px solid grey;
+    border-radius:50%;
+    overflow:hidden;
+    padding:3px;
+    @apply rounded-full text-[1.3rem] sm:text-[1.7rem] text-white bg-[#10282b]
+}
+
+.guestUserText{
+    @apply font-bold sm:text-[0.70rem] text-[0.60rem]
+}
+
+.guestUserMiniUserSection{
+    @apply sm:pl-1 pl-4
+}
+
+.miniUser{
+    @apply flex  
+}
+
+.miniUserIcon{
+    @apply pt-1 text-[0.7rem]
+}
+
+.miniUserText{
+    @apply pl-1 pt-1 text-[0.65rem]
+}

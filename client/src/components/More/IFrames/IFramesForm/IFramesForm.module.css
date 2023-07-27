@@ -1,0 +1,15 @@
+.main {
+    @apply px-2 py-2 flex flex-col items-center w-[98.5%] 
+  }
+  
+  .form {
+    @apply w-[98.5%] bg-white 
+  }
+
+.Frame{
+ @apply flex flex-col items-center 
+}
+
+.FrameItem{
+ @apply pt-2 pb-4 my-2 flex flex-col overflow-auto items-center 
+}

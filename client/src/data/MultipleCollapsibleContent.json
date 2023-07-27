@@ -1,0 +1,109 @@
+[
+    {
+      "title":"Collaborate with Colleagues",
+      "isActive":false,
+      "content":[
+        "Teach and learn from each other"
+        ,
+        "Collaborate on lesson plans-Two minds are better than one."
+        ,
+        "Build your own social network"
+        ,
+        "Get feedback regularly"
+        ,
+        "Work together to solve problems"
+        ,
+        "Become a teacher-leader"
+        ,
+        "Adopt a team mentality"
+        ,
+        "Ask for help"
+        ,
+        "Find a mentor"
+        ,
+        "Be open to new ideas"
+      ]
+    },
+    {
+       "title":"Learning Anything Quickly",
+      "isActive":false,
+      "content":[
+        "Learn by doing. Always play with the code while learning1."
+        ,
+        "Ask for help. You’ll need it"
+        ,
+        "TEACH SOMEONE ELSE"
+        ,
+        "FOCUS ON THE 20%"
+        ,
+        "Identifying the problem that needs solving"
+        ,
+        "Seek out more online resources. There’s a wealth of content"
+        ,
+        "Don’t just read the sample code. Tinker with it!"
+        ,
+        "Take breaks when debugging"
+        ,
+        "Keep Calm and Keep On Coding"
+      ]
+    },
+    {
+       "title":"Reasons People Give up Their Goals Too Early",
+       "isActive":false,
+       "content":[
+        "They want the outcome more than they want to obtain a skill"
+        ,
+        "They do not have the discipline to stick with their idea long enough to see it live"
+        ,
+        "They get distracted by what someone else is doing"
+        ,
+        "They don't believe in themselves enough."
+        ,
+        "They fail once--and never try again"
+        ,
+        "They don't learn how to discipline themselves"
+        ,
+        "They care more about the end result, not the process"
+        ,
+        "They surround themselves with people who are a negative influence."
+        ,
+        "They would rather settle for short-term rewards"
+        ,
+        "They don't have a guaranteed path to achieve success"
+        ,
+        "They don’t have the discipline to work hard enough"
+        ,
+        "They become distracted by other aspects of their life"
+        ,
+        "They don't know that failure is normal"
+       ]
+    }
+    ,
+    {
+            "title":"Signs of Settling for Less in Life",
+            "isActive":false,
+            "content":[
+             "You are always tired"
+             ,
+             "You keep saying 'after'"
+             ,
+             "You don’t think you can"
+             ,
+             "You think a lot, but do little"
+             ,
+             "You are playing small and you think it’s OK"
+             ,
+             "WhatsApp, Facebook, and TV are the highlight of your day"
+             ,
+             "You are not ready to break comfort"
+             ,
+             "You rely on escapism"
+             ,
+             "You have the exact same friends"
+             ,
+             "You have no idea what you want"
+             ,
+             "You don't think you deserve better"
+            ]
+    }
+]

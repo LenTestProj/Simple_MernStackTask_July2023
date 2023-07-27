@@ -1,0 +1,7 @@
+.main{
+    @apply mt-7 rounded-sm mx-3 flex flex-col items-center
+}
+
+.text{
+    @apply w-[90%] bg-[#136a9c] pt-5 pb-6 px-2 text-white text-[0.73rem] text-left
+}

@@ -1,0 +1,15 @@
+.main{
+    @apply flex pb-2 flex-col
+}
+
+/* .SectionItem{
+    @apply text-[0.6rem] w-[25%] m-2 flex flex-col border border-blue-800
+} */
+
+.label{
+    @apply font-bold
+}
+
+.sectionItem{
+    @apply flex text-[0.6rem] w-[20%] ml-2 leading-3
+}

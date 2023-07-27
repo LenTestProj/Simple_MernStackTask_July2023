@@ -1,0 +1,59 @@
+.main{
+    @apply px-2 py-2 flex flex-col items-center w-[98.5%]
+}
+
+.form{
+    @apply w-[98.5%] bg-white
+}
+
+.content{
+    @apply flex flex-col text-[0.65rem] p-5
+}
+
+.input{
+    @apply border border-gray-400/80 p-1 mt-1
+}
+
+.input:Focus{
+    @apply border border-blue-500 outline-none
+}
+
+.inputSection{
+    @apply flex flex-col w-[50%]
+}
+
+.list{  
+    @apply h-40 overflow-auto cursor-pointer
+}
+
+.list::-webkit-scrollbar{
+    width:9px;
+    /* height:2em; */
+    border-radius:5px;
+}
+
+.list:focus{
+    @apply outline-none
+}
+
+.list::-webkit-scrollbar-thumb{
+    background-color: #cccccc4d;
+    border-radius: 5px;
+}
+
+.list::-webkit-scrollbar-track {
+    /* border:2px solid black;
+    border-radius: 5px; */
+  }
+
+.listItem{
+    @apply p-1 
+}
+
+.listItem:focus{
+    @apply outline-none bg-blue-500 text-white
+}
+
+.listItem:hover{
+    @apply bg-blue-500 text-white
+}

@@ -1,0 +1,23 @@
+.main{
+    @apply flex flex-col sm:flex-row pt-9 pl-2 sm:pl-1 items-start sm:justify-between h-[5rem] w-[97%] ml-2 
+}
+
+.listItem{
+    @apply flex p-1 text-[0.65rem] sm:text-[0.60rem]
+}
+
+.icon{
+    @apply pt-[0.20rem] sm:pt-[0.15rem] pr-1 text-[0.50rem]
+}
+
+.firstHalfEmployeeText{
+    @apply flex items-center pb-0 sm:pb-1 
+}
+
+.secondHalfEmployeeText{
+    
+}
+
+.firstHalfCreateText{
+    @apply text-[0.6rem] pl-1 pt-[0.2rem]
+}

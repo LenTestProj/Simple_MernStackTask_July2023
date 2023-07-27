@@ -1,0 +1,29 @@
+[
+    {
+      "title":"Know your goals and priortize Wisely",
+      "isActive":false,
+      "content":[
+        "What are your priorities for the day? Make a list of your priorities and plan your day. The tasks of the day must be outlined with the most important and urgent ones on top."
+        ,
+        "Likewise, determine your short-term and long-term goals and evaluate your progress frequently"
+      ]
+    },
+    {
+       "title":"Be Focused and Eliminate Distractions ",
+      "isActive":false,
+      "content":[
+        "Are you really present physically and mentally. Try to block out all distractions so that you have"
+      ]
+    },
+    {
+       "title":"Choose the right mentor to Succeed in Career",
+       "isActive":false,
+       "content":[
+        "There is a big difference between a mentor and a coach"
+        ,
+        "Mentoring is a long-term process based on mutual trust and respect. Coaching, on the other hand, is for a short period of time."
+        ,
+        "The topmost priority of a mentor is to help develop skills that are not just relevant for the mentees in their present job, but also for the future. A mentor has the first-hand experience in the industry"
+       ]
+    }
+]

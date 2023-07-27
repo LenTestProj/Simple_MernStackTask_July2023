@@ -1,0 +1,18 @@
+.sublist-display-enter{
+    transform: translateX(-110%);
+    
+  }
+  
+  .sublist-display-enter-active{
+      transform: translateX(0%);
+      transition: all 1s ease
+  }
+  
+  .sublist-display-exit{
+  
+  }
+  
+  .sublist-display-exit-active{
+      transform: translateX(-110%);
+      transition: all ease 1s
+  }

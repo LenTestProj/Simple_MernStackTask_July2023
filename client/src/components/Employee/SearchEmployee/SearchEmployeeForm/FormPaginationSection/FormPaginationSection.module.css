@@ -1,0 +1,24 @@
+.main{
+    @apply flex p-2 justify-end mb-3
+}
+
+.item{
+    @apply text-[0.6rem] text-blue-500 border border-gray-400/50
+}
+
+.textElement{
+    @apply flex justify-start items-center pl-1
+}
+
+.button{
+    @apply p-1
+}
+
+.button:hover{
+ @apply bg-blue-500 text-white;
+}
+
+.button:disabled{
+    @apply bg-gray-400/20 text-black
+    cursor-not-allowed
+}

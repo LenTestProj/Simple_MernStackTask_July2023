@@ -1,0 +1,17 @@
+.modal-enter {
+  transform: translateY(-110%);
+}
+
+.modal-enter-active {
+  transform: translateY(10%);
+  transition: all 700ms ease;
+}
+
+.modal-exit {
+}
+
+.modal-exit-active {
+  transform: translateY(-110%);
+  transition: all ease 700ms;
+  opacity:0;
+}

@@ -1,0 +1,7 @@
+.main{
+    @apply text-[0.8rem] pt-[0.2rem] pl-[0.4rem] flex justify-between pr-1 border-b border-gray-400/50
+}
+
+.button{
+    @apply text-[0.60rem] p-1 bg-blue-400 mb-1 text-white cursor-pointer
+}

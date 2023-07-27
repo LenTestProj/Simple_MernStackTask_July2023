@@ -1,0 +1,7 @@
+.main{
+    @apply text-center bg-slate-400/75 pb-4 h-[100vh] flex flex-col justify-center 
+}
+
+.toast{
+    @apply w-[50%] sm:w-full bg-orange-100 left-[49%] top-1 sm:left-0 sm:top-0 text-black 
+}

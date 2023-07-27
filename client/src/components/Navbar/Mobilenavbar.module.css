@@ -1,0 +1,24 @@
+.main{
+    @apply flex fixed bg-blue-800 w-full text-white top-10 sm:hidden py-1 justify-between 
+}
+
+.item{
+ @apply py-2 px-4 flex flex-col cursor-pointer 
+}
+
+.logoutIcon{
+    @apply pt-1 pr-2 text-[0.7rem]
+}
+
+.item:last-child{
+ @apply flex-row text-[0.8rem]
+}
+
+.bars{
+@apply w-6 h-[0.16rem] bg-white mb-1
+}
+
+.bars:last-child{
+    @apply mb-0
+}
+

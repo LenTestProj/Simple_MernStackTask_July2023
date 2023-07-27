@@ -1,0 +1,21 @@
+.CollapsibleList-enter {
+  display:grid;
+  grid-template-rows:0fr;
+  overflow:hidden;
+  transition:grid-template-rows 700ms;
+}
+
+.CollapsibleList-enter-active {
+    grid-template-rows:1fr;
+}
+
+.CollapsibleList-exit {
+    grid-template-rows:1fr;
+    transition:grid-template-rows 700ms;
+    display:grid;
+}
+
+.CollapsibleList-exit-active {  
+    grid-template-rows:0fr;
+    overflow:hidden;
+}

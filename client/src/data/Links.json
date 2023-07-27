@@ -1,0 +1,77 @@
+{
+    "WorkingLinks":[
+        {
+            "title":"Link 1",
+            "color":"red",
+             "url":"https://www.workinglinks.co.uk/"
+        },
+        {
+            "title":"Link 2",
+            "color":"blue",
+            "url":"https://www.google.co.in/"
+        },
+        {
+            "title":"Link 3",
+            "color":"green",
+            "url":"https://jalatechnologies.com/"
+        }
+    ],
+    "BrokenLinks":[
+        {
+            "title":"Link 1",
+            "color":"red",
+            "url":"https://magnus.jalatechnologies.com/Home/www.brokenlinkcheck.com/"
+        },
+        {
+            "title":"Link 2",
+            "color":"blue",
+            "url":"https://magnus.jalatechnologies.com/Home/www.brokenlinkcheck.com/"
+        },
+        {
+            "title":"Link 3",
+            "color":"green",
+            "url":"https://magnus.jalatechnologies.com/Home/www.brokenlinkcheck.com/"
+        }
+    ],
+    "ImageLinks":[
+        {
+            "src":"https://media.licdn.com/dms/image/C5103AQEkfPT924t0Uw/profile-displayphoto-shrink_800_800/0/1516856396938?e=2147483647&v=beta&t=KFcPfFUf-Jocfi6V0ag1kuwhbqXcsn7DOBmCR0Go3p8",
+            "url":"http://www.growictech.com/"
+        },
+        {
+            "src":"https://icon-library.com/images/linkedin-vector-icon/linkedin-vector-icon-4.jpg",
+            "url":"https://www.linkedin.com/feed/"
+        },
+        {
+            "src":"https://static.vecteezy.com/system/resources/previews/009/469/630/original/google-logo-isolated-editorial-icon-free-vector.jpg",
+            "url":"https://www.google.co.in/"
+        },
+        {
+            "src":"https://cdn.techinasia.com/data/images/ppct3DDGkKOozHJuGeqZogwgS2xiZ16Vzo83HIBa.png",
+            "url":"https://jalatechnologies.com/"
+        }
+    ],
+    "StatusCodeLinks":[
+        {
+            "title":"200",
+            "color":"green",
+            "url":"https://www.restapitutorial.com/httpstatuscodes.html"
+        },
+        {
+            "title":"301",
+            "color":"blue",
+            "url":"https://magnus.jalatechnologies.com/ErrorHandler/RedirectPermanently"
+        },
+        {
+            "title":"404",
+            "color":"red",
+            "url":"https://magnus.jalatechnologies.com/ErrorHandler/NotFound"
+        },
+        {
+            "title":"500",
+            "color":"red",
+            "url":"https://magnus.jalatechnologies.com/ErrorHandler/InternalServerError"
+        }
+    ] 
+}
+    

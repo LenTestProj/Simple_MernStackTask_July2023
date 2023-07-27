@@ -1,0 +1,19 @@
+.main{
+     
+}
+
+.tabs{
+    @apply flex
+}
+
+.tabItem{
+    @apply text-[0.6rem] p-2 bg-blue-500 text-white border-t-2 border-white cursor-pointer mr-1
+}
+
+.selectedTabItem{
+    @apply bg-white text-blue-500 border-t-2 border-t-blue-500 border-x-[1px] border-x-gray-400/50
+}
+
+.content{
+    @apply flex flex-col text-[0.7rem] p-2
+}

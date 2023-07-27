@@ -1,0 +1,14 @@
+.checkBox{
+    @apply   cursor-pointer appearance-none bg-slate-200 mt-[0.1rem] border-2 border-blue-500  flex items-center justify-center 
+}
+
+.checkBox:after{
+    font-family:'Font Awesome 6 free';
+    content:'\f00C';
+    font-weight:900;
+    display:none;
+}
+
+.checkBox:checked:after{
+    display:block;
+}

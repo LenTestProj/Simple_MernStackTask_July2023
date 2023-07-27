@@ -1,0 +1,43 @@
+.main{
+    @apply px-2 py-2 flex flex-col items-center w-[98.5%]
+}
+
+.form{
+    @apply w-[98.5%] bg-white
+}
+
+.listItem {
+    @apply text-[0.6rem] p-2 bg-blue-400 text-white items-center flex justify-center border-b border-b-white relative
+}
+
+.listItem:hover{
+    @apply bg-gray-400
+}
+
+.listItem:hover>.subList{
+    @apply visible
+}
+
+.listSection{
+    @apply flex p-5
+}
+
+.list{
+    @apply w-[35%] cursor-pointer 
+}
+
+.subList{
+    @apply bg-blue-500 left-full absolute w-[43%] top-[0.5%] text-[0.55rem] invisible ml-[1%]
+}
+
+.subListItem{
+    @apply p-1 flex items-center border-b border-b-white 
+}
+
+.subListItem:hover{
+    @apply bg-gray-400 
+}
+
+.extraText{
+    @apply text-[0.7rem] pl-3
+}

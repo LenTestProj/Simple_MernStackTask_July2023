@@ -1,0 +1,4 @@
+.main{
+    @apply w-full flex flex-col bg-slate-200 items-center pt-2 sm:pt-0
+  }
+

@@ -1,0 +1,142 @@
+{
+    "Links":[
+        {
+            "title":"Link 1",
+            "color":"red",
+             "url":"http://www.growictech.com/",
+            "content":null 
+        },
+        {
+            "title":"Link 2",
+            "color":"blue",
+            "url":"https://www.linkedin.com/feed/",
+            "content":null 
+        },
+        {
+            "title":"Link 3",
+            "color":"green",
+            "url":"https://www.google.co.in/",
+            "content":null 
+        },
+        {
+            "title":"Link 4",
+            "color":"yellow",
+            "url":"https://www.growictech.com:2096/",
+            "content":null 
+        },
+        {
+            "title":"Link 5",
+            "color":"black",
+            "url":"https://www.restapitutorial.com/httpstatuscodes.html",
+            "content":null 
+        }
+    ],
+    "Labels":[
+        {
+            "title":"Default",
+            "color":"gray",
+            "content":null 
+        },
+        {
+            "title":"Primary",
+            "color":"blue",
+            "content":null 
+        },
+        {
+            "title":"Success",
+            "color":"green",
+            "content":null 
+        },
+        {
+            "title":"Info",
+            "color":"cyan",
+            "content":null 
+        },
+        {
+            "title":"Warning",
+            "color":"yellow",
+            "content":null 
+        },
+        {
+            "title":"Danger",
+            "color":"red",
+            "content":null 
+        }
+    ],
+    "Buttons":[
+        {
+            "title":"Default",
+            "color":"gray",
+            "content":null 
+        },
+        {
+            "title":"Primary",
+            "color":"blue",
+            "content":null 
+        },
+        {
+            "title":"Success",
+            "color":"green",
+            "content":null 
+        },
+        {
+            "title":"Warning",
+            "color":"yellow",
+            "content":null 
+        },
+        {
+            "title":"Danger",
+            "color":"red",
+            "content":null 
+        }
+    ],
+    "Alerts":[
+        {
+            "title":"Success! Indicates a successful or positive action.",
+            "color":"green",
+            "content":null 
+        },
+        {
+            "title":"Info! Indicates a neutral informative change or action.",
+            "color":"cyan",
+            "content":null 
+        },
+        {
+            "title":"Warning! Indicates a warning that might need attention.",
+            "color":"yellow",
+            "content":null 
+        },
+        {
+            "title":"Danger! Indicates a dangerous or potentially negative action.",
+            "color":"red",
+            "content":null 
+        }
+    ],
+    "ProgressBars":[
+        {
+            "title":"Success! Indicates a successful or positive action.",
+            "color":"green",
+            "progressValue":30,
+            "content":null 
+        },
+        {
+            "title":"Info! Indicates a neutral informative change or action.",
+            "color":"cyan",
+            "progressValue":20,
+            "content":null 
+        },
+        {
+            "title":"Warning! Indicates a warning that might need attention.",
+            "color":"yellow",
+            "progressValue":60,
+            "content":null 
+        },
+        {
+            "title":"Danger! Indicates a dangerous or potentially negative action.",
+            "color":"red",
+            "progressValue":70,
+            "content":null 
+        }
+    ]
+}
+    

@@ -1,0 +1,20 @@
+.main{
+    @apply px-2 py-2 flex flex-col items-center w-[98.5%]
+}
+
+.form{
+    @apply w-[90.5%] bg-white
+}
+
+.content{
+    @apply pt-3 pb-10
+}
+
+.textItem{
+    @apply text-[0.7rem]
+}
+
+.inputItem{
+    @apply w-full cursor-pointer
+}
+
